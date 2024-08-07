@@ -1,4 +1,4 @@
-
+import streamlit as st
 import os
 from ai71 import AI71
 import functions
@@ -9,7 +9,7 @@ from appoint import get_indent
 current_datetime = datetime.date.today()
 day_of_week = current_datetime.strftime("%A")
 
-AI71_API_KEY = os.getenv('AI71_API_KEY')
+AI71_API_KEY = st.secrets["AI71_API_KEY"]
 # print(AI71_API_KEY)
 client = AI71(AI71_API_KEY)
 
