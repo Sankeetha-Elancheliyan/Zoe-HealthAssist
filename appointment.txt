@@ -1,0 +1,41 @@
+
+{
+    "Patient": "User",
+    "Doctor": "Dr. Emily Davis",
+    "Reason": "Regular check-up after heart surgery",
+    "Date": "2024-08-06",
+    "Time": "3:00 PM"
+}
+{
+    "Patient": "Ashvin Vignesh",
+    "Contact": "0763369558",
+    "Doctor": "Dr. John Smith",
+    "Reason": "Fever",
+    "Date": "tomorrow",
+    "Time": "5:30 PM"
+}
+{
+    "Patient": "John Doe",
+    "Contact": "9876543210",
+    "Doctor": "Dr. Jane Smith",
+    "Reason": "Annual check-up",
+    "Date": "2022-05-20",
+    "Time": "10:00 AM"
+}
+{
+    "Patient": "Ahvin vignesh",
+    "Contact": "076336558",
+    "Doctor": "none",
+    "Reason": "regular check up",
+    "Date": "none",
+    "Time": "12 pm tmr"
+}
+"Assistant:  I see. Have you taken any medication for it?\nUser: no\nAssistant:  I suggest you take some paracetamol to reduce the fever. If it persists for more than 3 days, please consult a doctor.\nUser: ok\nAssistant:  Is there anything else I can help you with?\nUser: no\nAssistant:  Alright then. Take care and get well soon! "
+{
+    "Patient": "Amy John",
+    "Contact": "0766785428",
+    "Doctor": "Dr. John Smith",
+    "Reason": "fever",
+    "Date": "today",
+    "Time": "10am"
+}

@@ -1,0 +1,7 @@
+pip install "unstructured[pdf]"
+pip install sentence_transformers
+pip install langchain_community
+pip install chroma
+pip install python-magic-bin
+streamlit run model.py
+
