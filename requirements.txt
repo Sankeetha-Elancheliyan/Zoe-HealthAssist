@@ -104,7 +104,7 @@ opentelemetry-instrumentation-fastapi
 opentelemetry-proto
 opentelemetry-sdk
 opentelemetry-semantic-conventions
-opentelemetry-util-http0
+opentelemetry-util-http
 ordered-set
 orjson
 overrides
