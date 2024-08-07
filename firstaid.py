@@ -6,10 +6,9 @@ import os
 from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 from ai71 import AI71
 import json
+import streamlit as st
 
-
-AI71_API_KEY = os.getenv('AI71_API_KEY')
-
+AI71_API_KEY = st.secrets["AI71_API_KEY"]
 
 
 class HRChatBot:
